@@ -131,6 +131,7 @@ namespace DelegateTest
 																);
 
 			// 델리게이트 체인 이렇게도 됨 1
+			// 델리게이트가 두개 이상의 메소드를 참조하는 경우를 델리게이트 멀티캐스팅이라고 한다.
 			//OnjDelegate Callback = new OnjDelegate(Plus);
 			//Callback += new OnjDelegate(Minus);
 			//Callback += new OnjDelegate(Mutiple);
